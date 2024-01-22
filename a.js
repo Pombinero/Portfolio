@@ -6,4 +6,4 @@ while (q <= f)
     console.log(q)
     q++;
 }
- document.write(q);
+ document.write(f);
