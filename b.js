@@ -21,5 +21,5 @@ console.log("The number is odd");
 
 // For-in loop//
 for (let index in myArray) {
-    oddNumber(Increase, myarray[index]);
+    oddNumber(Increase, myArray[index]);
 }
