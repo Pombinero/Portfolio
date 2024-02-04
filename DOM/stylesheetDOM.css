@@ -1,0 +1,19 @@
+body {
+  background-color: purple;
+}
+
+#divsection {
+ outline-style: solid;
+ outline-color: yellow;
+ width: 80%;
+ position: center;
+ margin: auto;
+}
+
+h2{
+  color:white;
+}
+
+p {
+  text-align: center;
+}
