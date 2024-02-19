@@ -1,0 +1,71 @@
+/* Main Color Theme */
+body {
+    background-color: purple;
+  }
+  
+  h1 {
+    color: plum;
+    text-align: center;
+  }
+  
+  p {
+    color: white;
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center
+  }
+
+  /*Nav*/
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: purple;
+  }
+
+  li {
+    float: left;
+  }
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  li a:hover {
+    background-color: plum;
+  }
+
+  .active {
+    background-color: lightblue;
+  }
+
+  /*Home Page Content */
+  .FPS {
+    text-align: center;
+    padding: auto;
+    margin: auto;
+    border: 2px solid plum;
+    background-color: pink;
+    
+  }
+
+  .RPG {
+    text-align: center;
+    padding: auto;
+    margin: auto;
+    border: 2px solid plum;
+    background-color: pink;
+  }
+
+  .Sandbox {
+    text-align: center;
+    padding: auto;
+    margin: auto;
+    border: 2px solid plum;
+    background-color: pink;
+  }
